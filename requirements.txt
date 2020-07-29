@@ -1,0 +1,13 @@
+opencv_python
+Keras==2.2.5
+Flask
+detectron2
+google_auth_oauthlib
+Flask_Cors
+Werkzeug
+firebase_admin
+numpy
+google_api_python_client
+Pillow
+protobuf
+tensorflow==1.8.0
