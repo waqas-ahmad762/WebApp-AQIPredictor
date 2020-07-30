@@ -16,13 +16,7 @@
     ];
 
      var firebaseConfig = {
-      apiKey: "AIzaSyDwK2f_i2mT8bZR3Gqps8m0o1xHhxyM0Lk",
-      authDomain: "wedapp-266618.firebaseapp.com",
-      databaseURL: "https://wedapp-266618.firebaseio.com",
-      projectId: "wedapp-266618",
-      storageBucket: "wedapp-266618.appspot.com",
-      messagingSenderId: "96073401336",
-      appId: "1:96073401336:web:b1d615bae9ad5116f7cc0d"
+      FIREBASE CREDITALS
     };
 
     firebase.initializeApp(firebaseConfig);
